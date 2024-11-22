@@ -1,0 +1,1452 @@
+.parent1{
+  background-color: #ffffff;
+}
+.FORHOME1{
+  display: none;
+}
+.my-work-image{
+  height: 15rem;
+  border-radius: 2rem;
+  box-shadow: -5px -5px 15px #181717, 5px 5px 15px #cec9c9, inset 5px 5px 10px #dbd4d4,
+  inset -5px -5px 10px #cdd4d4;
+  filter: drop-shadow(-1px -1px 2px rgba(202, 195, 195, 0.7))
+  drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));
+}
+.my-work-image2{
+  height: 10rem;
+  position: relative;
+  bottom: 15rem;
+  right: 15rem;
+  width: 10rem;
+  border-radius: 5px;
+  box-shadow: -5px -5px 15px #d4cdcd, 5px 5px 15px #cec9c9, inset 5px 5px 10px #dbd4d4,
+  inset -5px -5px 10px #cdd4d4;
+  filter: drop-shadow(-1px -1px 2px rgba(202, 195, 195, 0.7))
+  drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));
+}
+.my-work-image3{
+  height: 10rem;
+  position: relative;
+  bottom: 25rem;
+  right: -15rem;
+  width: 15rem;
+  border-radius: 5px;
+  box-shadow: -5px -5px 15px #d4cdcd, 5px 5px 15px #cec9c9, inset 5px 5px 10px #dbd4d4,
+    inset -5px -5px 10px #cdd4d4;
+    filter: drop-shadow(-1px -1px 2px rgba(202, 195, 195, 0.7))
+		drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));
+  }
+.mywork-pic11{
+  height: 20rem;
+  box-shadow: -5px -5px 15px #d4cdcd, 5px 5px 15px #cec9c9, inset 5px 5px 10px #dbd4d4,
+    inset -5px -5px 10px #cdd4d4;
+    filter: drop-shadow(-1px -1px 2px rgba(202, 195, 195, 0.7))
+		drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));  border-radius: 2rem;
+}
+
+.mywork-pic13{
+  height: 10rem;
+ border-top-left-radius: 50rem;
+  position: relative;
+  bottom: 8rem;
+  left: -35rem;
+  box-shadow: 23px 24px 34px 23px rgb(71, 67, 67);
+}
+.mywork-pic12{
+  height: 10rem;
+  border-radius: 100rem;
+  position: relative;
+  bottom: 8rem;
+  left: -5rem;
+  box-shadow: -5px -5px 15px #d4cdcd, 5px 5px 15px #cec9c9, inset 5px 5px 10px #dbd4d4,
+    inset -5px -5px 10px #cdd4d4;
+    filter: drop-shadow(-1px -1px 2px rgba(202, 195, 195, 0.7))
+		drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));
+}
+.about-div{
+  border-radius: 9px;
+  margin: 3rem;
+  padding: 4rem;
+background: #000000;
+box-shadow: inset 9px 9px 41px #1a1919,
+            inset -9px -9px 41px #111111;
+}
+.about1-div{
+  border-radius: 9px;
+  background: #e0e0e0;
+  box-shadow: inset 9px 9px 41px #5e5e5e,
+              inset -9px -9px 41px #ffffff;
+}
+
+.about1-div p{
+  margin: 3rem;
+  padding: 4rem;
+}
+.READ{
+  margin: 12px;
+  position: relative;
+  top: -27rem;
+  right: -11rem;
+  height: 50px;
+  width: 16rem;
+  border-radius: 10px;
+  background: #333;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #444,
+    inset -5px -5px 10px #222;
+  font-family: "Damion", cursive;
+  cursor: pointer;
+  border: none;
+  font-size: 16px;
+  color: rgb(161, 161, 161);
+  transition: 500ms;
+}
+.READ:hover {
+  box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #222,
+    inset -5px -5px 10px #444;
+  color: #d6d6d6;
+
+  transition: all 1s ease;
+}
+.name1{
+  position: relative;
+  right: -634px;
+  top: -23rem;
+  width: 39rem;
+  color: #ffffff65;
+  flex-wrap: wrap;
+}
+
+.About-text{
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  top: -5rem;
+  margin-right: 2rem;
+}
+.position-img{
+  position: relative;
+  top: -12rem;
+}
+.About1{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 15rem;
+}
+
+/* From Uiverse.io by lenfear23 */ 
+.more{
+  margin: 12px;
+  height: 50px;
+  width: 16rem;
+  border-radius: 10px;
+  background: #333;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #444,
+    inset -5px -5px 10px #222;
+  font-family: "Damion", cursive;
+  cursor: pointer;
+  border: none;
+  font-size: 16px;
+  color: rgb(161, 161, 161);
+  transition: 500ms;
+}
+.more1{
+  margin: 12px;
+  height: 50px;
+  width: 16rem;
+  border-radius: 10px;
+  background: #ffffff;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -5px -5px 15px #928b8b, 5px 5px 15px #dddada, inset 5px 5px 10px #d8d4d4,
+    inset -5px -5px 10px #06a6f0;
+  font-family: "Damion", cursive;
+  cursor: pointer;
+  border: none;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  transition: 500ms;
+}
+.more1:hover{
+  box-shadow: -5px -5px 15px #b9b3b3, 5px 5px 15px #c4bebe, inset 5px 5px 10px #c5c2c2,
+  inset -5px -5px 10px #444;
+color: #000000;
+
+  transition: all 1s ease;
+}
+.more:hover {
+  box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #222,
+    inset -5px -5px 10px #444;
+  color: #d6d6d6;
+
+  transition: all 1s ease;
+}
+
+/* From Uiverse.io by MikeAndrewDesigner */ 
+.e-card {
+  margin: 100px auto;
+  background: transparent;
+  box-shadow: 0px 8px 28px -9px rgba(0,0,0,0.45);
+  position: relative;
+  width: 83rem;
+  height: 120vh;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 
+    12px 12px 16px 0 rgba(255, 255, 255, 0.3) inset,
+    -8px -8px 12px 0 rgba(0, 0, 0, .25) inset;
+}
+
+.e-card1{
+  margin: 100px auto;
+  background: transparent;
+  box-shadow: 0px 8px 28px -9px rgba(255, 0, 0, 0.45);
+  position: relative;
+  width: 83rem;
+  height: 120vh;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.3) inset,
+    -8px -8px 12px 0 rgba(61, 54, 54, 0.25) inset;
+}
+
+.wave {
+  position: absolute;
+  width: 120rem;
+  height: 120rem;
+  opacity: 0.9;
+    left: 0;
+    top: 0;
+    margin-left: -10%;
+    margin-top: 10%;
+  background: linear-gradient(744deg,#2e2b2b,#151616 60%,#1b1c1d);
+  box-shadow: 
+  12px 12px 16px 0 rgba(255, 255, 255, 0.3) inset,
+  -8px -8px 12px 0 rgba(0, 0, 0, .25) inset;
+}
+.evaw{
+  position: absolute;
+  width: 120rem;
+  height: 120rem;
+  opacity: 0.9;
+    left: 0;
+    top: 0;
+    margin-left: -10%;
+    margin-top: 10%;
+  background: linear-gradient(744deg,#ff0000,#00ffff 60%,#0080ff); 
+  box-shadow: 
+  12px 12px 16px 0 rgba(255, 255, 255, 0.3) inset,
+  -8px -8px 12px 0 rgba(0, 0, 0, .25) inset;
+}
+
+.icon {
+height: 16rem;
+border-radius: 50%;
+  margin-top: -1em;
+  padding-bottom: 1em;
+ 
+}
+
+
+.infotop {
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top: 5.6em;
+  left: 0;
+  right: 0;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+
+.name {
+  font-size: 19px;
+  font-weight: 300;
+  position: relative;
+  top: 1em;
+ color: rgba(255, 255, 255, 0.37);
+  padding: 0 19rem 0 19rem;
+  text-transform: lowercase;
+}
+
+.wave:nth-child(2),
+.wave:nth-child(3) {
+  top: 210px;
+}
+
+.evaw:nth-child(2),
+.evaw:nth-child(3) {
+  top: 210px;
+}
+.playing .wave {
+  border-radius: 40%;
+  animation: wave 3000ms infinite linear;
+}
+.playing .evaw{
+  border-radius: 40%;
+  animation: wave 3000ms infinite linear;
+}
+
+.wave {
+  border-radius: 40%;
+  animation: wave 55s infinite linear;
+}
+.evaw{
+  border-radius: 40%;
+  animation: wave 55s infinite linear;
+}
+
+.playing .wave:nth-child(2) {
+  animation-duration: 4000ms;
+}
+.playing .evaw:nth-child(2) {
+  animation-duration: 4000ms;
+}
+
+.wave:nth-child(2) {
+  animation-duration: 50s;
+}
+.evaw:nth-child(2) {
+  animation-duration: 50s;
+}
+
+.playing .wave:nth-child(3) {
+  animation-duration: 5000ms;
+}
+.playing .evaw:nth-child(3) {
+  animation-duration: 5000ms;
+}
+.wave:nth-child(3) {
+  animation-duration: 45s;
+}
+.evaw:nth-child(3) {
+  animation-duration: 45s;
+}
+@keyframes wave {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes evaw {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+/* From Uiverse.io by Yaseen549 */ 
+.card {
+  
+  height: 100vh;
+  border-radius: 30px;
+  background: #030303;
+  box-shadow: 15px 15px 30px rgb(25, 25, 25),
+              -15px -15px 30px rgb(51, 50, 50);
+              box-shadow: -6px -6px 8px 0 rgba(51, 51, 50, 0.5) inset,
+   7px 7px 12px 0 rgba(90, 90, 89, 0.4) inset,
+   6px 6px 14px 0 rgba(86, 87, 85, 0.5),
+   -3px -3px 12px 0 rgba(63, 63, 62, 0.4);
+ }
+ 
+ 
+.parent{
+  
+  background-color: #000000;
+   
+}
+.App {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.7;
+  color: antiquewhite;
+  padding: 10px;
+  text-align: center;
+  height: 30rem;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  z-index: 1;
+  overflow: hidden; /* Prevents content from spilling out */
+}
+.App3{
+  background-color: rgb(255, 255, 255);
+  opacity: 0.7;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  text-align: center;
+  height: 30rem;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+.well1 {
+  color: #fff; /* Base text color */
+  font-size: 4rem;  
+  margin-left: 4rem;/* Adjust the size as needed */
+  text-align: center; /* Centers the text */
+  animation: glow 0.5s ease-in-out infinite alternate;
+}
+
+/* Keyframes for the glowing effect */
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fffafa, 0 0 15px #fff, 0 0 20px #ffffff, 0 0 25px #ffffff, 0 0 30px #ffffff, 0 0 35px #ffffff;
+  }
+  100% {
+    text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000;
+  }
+}
+.well2 {
+  color: #000000; /* Base text color */
+  font-size: 4rem; 
+  margin-left: 4rem;/* Adjust the size as needed */
+  text-align: center; /* Centers the text */
+  animation: glow 0.5s ease-in-out infinite alternate;
+}
+
+/* Keyframes for the glowing effect */
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #ffffff, 0 0 15px #fff, 0 0 20px #ffffff, 0 0 25px #ffffff, 0 0 30px #ffffff, 0 0 35px #ffffff;
+  }
+  100% {
+    text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #000000;
+  }
+}
+
+.App::after {
+  content: "";
+  background-image: url('./pic3.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Keep the background image fixed */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  z-index: -1; /* Ensure the image is behind the text */
+}
+.App3 ::after{
+  content: "";
+  background-image: url('./pic2.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Keep the background image fixed */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  z-index: -1;
+}
+
+.App ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Pushes items to opposite ends */
+}
+.App3 ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: space-between;
+}
+
+.App ul li {
+  display: flex;
+  align-items: center; /* Center items vertically in the list */
+}
+.App3 ul li{
+  display: flex;
+  align-items: center;
+}
+
+.logo-container {
+  flex: 0 1 auto; /* Allow logo to take up its natural width */
+}
+.FORHOME{
+  display: none;
+}
+
+.logo {
+  display: block; /* Remove default inline spacing */
+  max-width: 100%; /* Ensure logo is responsive */
+  height: auto; /* Maintain aspect ratio */
+  margin: 0 auto; /* Center logo horizontally */}
+
+.nav-buttons {
+  display: flex;
+  gap: 15px; /* Space between buttons */
+ 
+}
+.nav-buttons1{
+  display: flex;
+  gap: 15px;
+}
+
+
+.nav-buttons button {
+  position: relative;
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+  font-size: 16px; 
+  margin: 8px;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  background: #333;
+  justify-content: center;
+  align-items: center;
+  box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #444,
+    inset -5px -5px 10px #222;
+  font-family: "Damion", cursive;
+  cursor: pointer;
+  border: none;
+  font-size: 16px;
+  color: rgb(161, 161, 161);
+  transition: 500ms;
+  
+}
+.nav-buttons button:hover{
+   box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #222,
+    inset -5px -5px 10px #444;
+    filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.7))
+		drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));
+    cursor: pointer;
+  color: #d6d6d6;
+  transition: 500ms;
+}
+
+.nav-buttons1 button {
+  position: relative;
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+  font-size: 16px; /* Adjust font size as needed */
+
+  color: #090909;
+  padding: 0;
+  font-size: 16px;
+  border-radius: 0.5em;
+  background: #e8e8e8;
+  cursor: pointer;
+  border: 1px solid #e8e8e8;
+  transition: all 0.3s;
+  margin: 8px;
+  height: 40px;
+  width: 80px;
+  box-shadow:
+    6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+}
+.nav-buttons1 button:hover{
+  color: #666;
+  box-shadow:
+    0px 0px 0px #c5c5c5,
+    0px 0px 0px #ffffff,
+    inset 4px 4px 12px #c5c5c5,
+    inset -4px -4px 12px #ffffff;
+}
+
+.nav-buttons button::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px; 
+  background-color: rgb(255, 255, 255);
+  transition: width 0.3s ease; 
+}
+.nav-buttons1 button::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px; /* Adjust thickness as needed */
+  background-color: rgb(0, 0, 0);
+  transition: width 0.3s ease; /* Adjust timing and easing as needed */
+}
+
+.nav-buttons button:hover::before {
+  width: 100%;
+}
+.nav-buttons1 button:hover::before {
+  width: 100%;
+}
+
+.khan {
+  color: rgb(255, 255, 255);
+}
+
+.khan1 {
+  color: rgb(255, 255, 255);
+}
+
+.App1 {
+  display: none;
+}
+
+
+.App2{
+  display: none;/* Global settings */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #222;
+  color: #fff;
+}
+
+/* Left Section */
+
+
+
+
+.icon-menu {
+  margin-top: 20px;
+}
+
+.icon-menu a {
+  display: block;
+  margin: 10px 0;
+}
+
+.icon-menu img {
+  width: 40px;
+  height: 40px;
+}
+
+
+
+}
+
+/* Toggle Button */
+.menu-btn {
+  background-color: transparent;
+  font-size: 30px;
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  z-index: 1000;
+}
+@media (max-width: 1080px) {
+  .my-work-image{
+    height: 10rem;
+  }
+  
+  .my-work-image2{
+    height: 5rem;
+    position: relative;
+    bottom: 5rem;
+    right: 10rem;
+    width: 5rem;
+    border-radius: 5px;
+    
+  }
+  .my-work-image3{
+    height: 7rem;
+    position: relative;
+    bottom: 12rem;
+    right: -15rem;
+    width: 7rem;
+    border-radius: 5px;
+  }
+  .e-card {
+   
+    width: 40rem;
+    height: 99vh;
+    
+  }
+  .img-About{
+    height: 14rem;
+    border-radius: 50rem;
+  }
+  .About-text{
+    font-size: 15px;
+    font-weight: 900;
+    position: relative;
+    top: -1rem;
+    margin-right: 2rem;
+  }
+
+  .e-card1{
+      
+    width: 40rem;
+    height: 99vh;
+  }
+  .name{
+    padding: 0 3rem 0 3rem;
+  }
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.about-us {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  padding: 90px 0;
+  background: #fff;
+}
+.pic {
+  height: auto;
+  width: 400px;
+  border-radius: 12px;
+}
+.about {
+  width: 1130px;
+  max-width: 85%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.text {
+  width: 540px;
+}
+.text h2 {
+  color: #333;
+  font-size: 90px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.text h5 {
+  color: #333;
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+span {
+  color: #4070f4;
+}
+.text p {
+  color: #333;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+.data {
+  margin-top: 30px;
+}
+.hire {
+  font-size: 18px;
+  background: #4070f4;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 6px;
+  transition: 0.5s;
+}
+.hire:hover {
+  background: #000;
+}
+@media (max-width: 730px) {
+  .my-work-image{
+    height: 7rem;
+  }
+  
+  .my-work-image2{
+    height: 3rem;
+    position: relative;
+    bottom: 5rem;
+    right: 8rem;
+    width: 3rem;
+    border-radius: 5px;
+  }
+  .my-work-image3{
+    height: 4rem;
+    position: relative;
+    bottom: 12rem;
+    right: -5rem;
+    width: 4rem;
+    border-radius: 5px;
+  }
+}
+
+@media (max-width: 680px) {
+  .App {
+    display: none;
+    position: relative;
+    top: 5rem;
+  }
+  .mywork-mywork{
+    left: 14rem;
+  }
+  .about-div{
+    display: none;
+  }
+  .about1-div{
+    display: none;
+  }
+  .about-div{
+  
+    margin: 1rem;
+    padding: 2rem;
+ 
+  }
+ 
+  .img-About{
+    display: none;
+  }
+  .About-text{
+    font-size: 15px;
+    font-weight: 900;
+    position: relative;
+    top: -1rem;
+    left: 1rem;
+    
+  }
+  .e-card {
+   
+    width: 30rem;
+    height: 120vh;
+  }
+  .e-card1{
+      
+    width: 30rem;
+    height: 120vh;
+  }
+  .about-section{
+    width: 30rem;
+    height: 25rem;
+  }
+  .about-section1{
+    width: 30rem;
+    height: 25rem;
+  }
+  .mywork-pic11{
+    height: 20rem;
+    border-radius: 2rem;
+  }
+  
+  .mywork-pic13{
+    height: 10rem;
+   border-top-left-radius: 50rem;
+    position: relative;
+    bottom: -8rem;
+    left: -33rem;
+  }
+ 
+  .mywork-pic12{
+    height: 10rem;
+    border-radius: 100rem;
+    position: relative;
+    bottom: 8rem;
+    left: -5rem;
+  
+  }
+  .App3{
+    display: none;
+    position: relative;
+    top: 5rem;
+  }
+  .well {
+    color: #fff; /* Base text color */
+    font-size: 24px; 
+    margin-left: 4rem;/* Adjust the size as needed */
+    text-align: center; /* Centers the text */
+    animation: glow 0.5s ease-in-out infinite alternate;
+  }
+  
+  /* Keyframes for the glowing effect */
+  @keyframes glow {
+    0% {
+      text-shadow: 0 0 5px #fff, 0 0 10px #fdfdfd, 0 0 15px #ffffff, 0 0 20px #ffffff, 0 0 25px #ffffff, 0 0 30px #ffffff, 0 0 35px #ffffff;
+    }
+    100% {
+      text-shadow: 0 0 10px #fff, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000, 0 0 50px #000000, 0 0 60px #000000, 0 0 70px #ffffff;
+    }
+  }
+  
+
+  .App1 {
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 136, 255);
+  }
+  .App2{
+    display: block;
+    background-color: black;
+    color: rgb(255, 255, 255);
+  }
+
+  /* Menu styles */
+  .menu {
+    position: fixed;
+    top: 80px;
+    right: -100%; /* Initially hidden off the right side */
+    width: 250px;
+    height: 100vh;
+    background-color: black;
+    transition: right 0.7s ease; /* Sliding effect */
+    z-index: 999;
+  }
+
+  #home {
+
+    position: relative;
+    top: 5rem;
+  }
+  .FORHOME{
+    display: block;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.7;
+    color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+    height: 30rem;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+  }
+  
+  .FORHOME1{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.7;
+    color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+    height: 30rem;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+  }
+  .mobile-D-N1{
+    border: none;
+    height: 3rem;
+    width: 3rem;
+    background-color: #000000;
+    color: #fdfdfd;
+   margin-right: 33rem;
+border-radius: 4rem;
+  }
+  .mobile-D-N{
+    border: none;
+    height: 3rem;
+    margin-right: 33rem;
+    margin-right: 33rem;
+
+    width: 3rem;
+    background-color: #ffffff;
+border-radius: 4rem;
+  }
+  .FORHOME1::after {
+    content: "";
+    background-image: url('./pic2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keep the background image fixed */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1; /* Ensure the image is behind the text */
+  }
+ 
+  .FORHOME::after {
+    content: "";
+    background-image: url('./pic3.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keep the background image fixed */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: -1; /* Ensure the image is behind the text */
+  }
+
+  .menu-active {
+    right: 0; /* Slide into view when active */
+  }
+
+  .menu ul {
+    list-style: none;
+    padding: 50px 20px;
+    text-align: left;
+  }
+
+  .menu ul li {
+    margin: 20px 0;
+    font-size: 20px;
+  }
+
+  .menu ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 22px;
+  }
+}
+
+
+@media (max-width: 590px) {
+  .my-work-image{
+    height: 5rem;
+  }
+  .my-work-image2{
+    height: 3rem;
+    position: relative;
+    bottom: 5rem;
+    right: 5rem;
+    width: 3rem;
+    border-radius: 5px;
+  }
+  .my-work-image3{
+    height: 4rem;
+    position: relative;
+    bottom: 8rem;
+    right: -5rem;
+    width: 4rem;
+    border-radius: 5px;
+  }
+}
+@media (max-width: 483px) {
+  .e-card {
+   
+    width: 26rem;
+    height: 120vh; 
+  }
+  .mywork-pic11{
+    height: 10rem;
+    border-radius: 2rem;
+  }
+  
+  .mywork-pic13{
+    height: 5rem;
+   border-top-left-radius: 50rem;
+    position: relative;
+    bottom: -4rem;
+    left: -7rem;
+  }
+  .mywork-pic12{
+    height: 5rem;
+    border-radius: 100rem;
+    position: relative;
+    bottom: 5rem;
+    left: -3rem;
+  
+  }
+  .e-card1{
+      
+    width: 26rem;
+    height: 120vh; 
+  }
+  /* .name{
+    padding: 0 6rem 0 6rem;
+  } */
+}
+@media (max-width: 423px) {
+  .e-card {
+    width: 20rem;
+    height: 140vh;
+    /* Allow vertical scrolling if needed */
+  }
+  .mywork-pic13{
+    height: 5rem;
+   border-top-left-radius: 50rem;
+    position: relative;
+    bottom: -4rem;
+    left: -17rem;
+    box-shadow: 23px 24px 34px 23px rgb(71, 67, 67);
+  }
+ 
+  .e-card1{
+      
+    width: 20rem;
+    height: 140vh; 
+  }
+   .About-text{
+    font-size: 15px;
+    font-weight: 900;
+    position: relative;
+    top: 8rem;
+    margin-right: 2rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+/* From Uiverse.io by Juanes200122 */ 
+.container {
+  position: relative;
+  max-width: 500px;
+  width: 80%;
+  background: #282828;
+  margin: 0 15px;
+  padding: 10px 20px;
+  border-radius: 7px;
+}
+.container-1{
+  position: relative;
+  max-width: 500px;
+  width: 80%;
+  background: #ffffff;
+  margin: 0 15px;
+  padding: 10px 20px;
+  border-radius: 7px;
+  box-shadow: -5px -5px 15px #d4cdcd, 5px 5px 15px #cec9c9, inset 5px 5px 10px #dbd4d4,
+    inset -5px -5px 10px #cdd4d4;
+    filter: drop-shadow(-1px -1px 2px rgba(202, 195, 195, 0.7))
+		drop-shadow(3px 3px 3px rgba(255, 255, 255, 0.8));
+}
+
+.container .skill-box {
+  width: 100%;
+  margin: 25px 0;
+}
+.container-1 .skill-box1{
+  width: 100%;
+  margin: 25px 0;
+}
+.skill-box .title {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(226, 226, 226);
+}
+.skill-box1 .title{
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+
+.skill-box .skill-bar {
+  height: 8px;
+  width: 100%;
+  border-radius: 6px;
+  margin-top: 6px;
+  background: rgba(236, 236, 236, 0.1);
+}
+
+.skill-box1 .skill-bar1{
+  height: 8px;
+  width: 100%;
+  border-radius: 6px;
+  margin-top: 6px;
+  background: rgba(109, 146, 161, 0.377);
+}
+
+.skill-bar .skill-per {
+  position: relative;
+  display: block;
+  height: 100%;
+  width: 90%;
+  border-radius: 6px;
+  background: rgb(226, 226, 226);
+  animation: progress 0.4s ease-in-out forwards;
+  opacity: 0;
+}
+.skill-bar1 .skill-per1{
+  position: relative;
+  display: block;
+  height: 100%;
+  width: 90%;
+  border-radius: 6px;
+  background: rgb(17, 14, 14);
+  animation: progress 0.4s ease-in-out forwards;
+  opacity: 0;
+}
+
+.skill-per.html {
+  /*progreso de las diferentes lenguajes*/
+  width: 90%;
+  animation-delay: 0.1s;
+}
+.skill-per1.html {
+  /*progreso de las diferentes lenguajes*/
+  width: 90%;
+  animation-delay: 0.1s;
+}
+
+
+.skill-per.node {
+  /*progreso de las diferentes lenguajes*/
+  width: 70%;
+  animation-delay: 0.1s;
+}
+.skill-per1.node {
+  /*progreso de las diferentes lenguajes*/
+  width: 70%;
+  animation-delay: 0.1s;
+}
+
+.skill-per.ui {
+  /*progreso de las diferentes lenguajes*/
+  width: 50%;
+  animation-delay: 0.2s;
+}
+.skill-per1.ui {
+  /*progreso de las diferentes lenguajes*/
+  width: 50%;
+  animation-delay: 0.2s;
+}
+
+@keyframes progress {
+  0% {
+    width: 0;
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.skill-per .tooltip {
+  position: absolute;
+  right: -14px;
+  top: -28px;
+  font-size: 9px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgb(226, 226, 226);
+  z-index: 1;
+}
+.skill-per1 .tooltip {
+  position: absolute;
+  right: -14px;
+  top: -28px;
+  font-size: 9px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgb(226, 226, 226);
+  z-index: 1;
+}
+
+.tooltip::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -2px;
+  height: 10px;
+  width: 10px;
+  z-index: -1;
+  background-color: rgb(226, 226, 226);
+  transform: translateX(-50%) rotate(45deg);
+}
+
+
+
+
+
+
+
+.form-port {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  font-family: inherit;
+  gap: 10px;
+  padding-inline: 2em;
+  padding-bottom: 0.4em;
+  background-color: #171717;
+
+  border-radius: 20px;
+}
+.form-port1 {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  font-family: inherit;
+  gap: 10px;
+  padding-inline: 2em;
+  padding-bottom: 0.4em;
+  background-color: #f3ecf0;
+
+  border-radius: 20px;
+}
+
+.form-heading-port {
+  text-align: center;
+  margin: 2em;
+  color: #64ffda;
+  font-size: 1.2em;
+  background-color: transparent;
+  align-self: center;
+}
+.form-heading-port1 {
+  text-align: center;
+  margin: 2em;
+  color: #000000;
+  font-size: 1.2em;
+  background-color: transparent;
+  align-self: center;
+}
+
+.form-field-port {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  border-radius: 10px;
+  padding: 0.6em;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: #171717;
+  box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+}
+.form-field-port1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  border-radius: 10px;
+  padding: 0.6em;
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  background-color: #eeebeb;
+  box-shadow: inset 2px 5px 10px rgb(143, 140, 140);
+}
+
+.input-field-port {
+  background: none;
+  border: none;
+  outline: none;
+  width: 100%;
+  color: #ccd6f6;
+  padding-inline: 1em;
+}
+.input-field-port1 {
+  background: none;
+  border: none;
+  outline: none;
+  width: 100%;
+  color: #003cff;
+  padding-inline: 1em;
+}
+
+.sendMessage-btn-port {
+  cursor: pointer;
+  margin-bottom: 3em;
+  padding: 1em;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #ff6464;
+  font-weight: bold;
+  outline: 1px solid #64ffda;
+  transition: all ease-in-out 0.3s;
+}
+.sendMessage-btn-port1 {
+  cursor: pointer;
+  margin-bottom: 3em;
+  padding: 1em;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #000000;
+  font-weight: bold;
+  outline: 1px solid #000000;
+  transition: all ease-in-out 0.3s;
+}
+
+.sendMessage-btn-port:hover {
+  transition: all ease-in-out 0.3s;
+  background-color: #ffffff;
+  color: #000;
+  cursor: pointer;
+  box-shadow: inset 2px 5px 10px rgb(88, 85, 85);
+}
+.sendMessage-btn-port1:hover {
+  transition: all ease-in-out 0.3s;
+  background-color: #000000;
+  color: #fffdfd;
+  cursor: pointer;
+  box-shadow: inset 2px 5px 10px rgb(88, 85, 85);
+}
+
+.form-card1-port {
+  background-image: linear-gradient(163deg, #000000 0%, #ff0000 100%);
+  border-radius: 22px;
+  transition: all 0.3s;
+}
+.form-card1-port1 {
+  background-image: linear-gradient(163deg, #000000 0%, #ff0000 100%);
+  border-radius: 22px;
+  transition: all 0.3s;
+}
+
+.form-card1-port:hover {
+  box-shadow: 0px 0px 30px 1px rgba(255, 255, 255, 0.3);
+}
+.form-card1-port1:hover {
+  box-shadow: 0px 0px 30px 1px rgba(255, 255, 255, 0.3);
+}
+
+.form-card2-port {
+  border-radius: 0;
+  transition: all 0.2s;
+}
+.form-card2-port1 {
+  border-radius: 0;
+  transition: all 0.2s;
+}
+
+.form-card2-port:hover {
+  transform: scale(0.98);
+  border-radius: 20px;
+}
+.form-card2-port1:hover {
+  transform: scale(0.98);
+  border-radius: 20px;
+}
